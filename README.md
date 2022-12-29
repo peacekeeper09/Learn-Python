@@ -16,3 +16,5 @@ I will be comparing Python only with Java, Javascript, C++, C and Pearl here.
 Runs slower as compared to Java but at the same time Python also takes less time to 
 to develop.Usually a python program is 3 to 5 times smaller when compared to Java.
 
+****VS JAVASCRIPT****\
+Python's "object-based" subset is roughly equivalent to JavaScript. Like Javascript, Python uses simple language unlike putting everything under class.
