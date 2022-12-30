@@ -13,3 +13,26 @@ x = complex(2i)
 #this is an example of list data type.
 x = [1,2,3,4]
 x = ['a', 'b', 1, 2]
+
+#this is an example of tuple data type.
+x = (1,2,3,4)
+x = ('a', 'b', 1, 2)
+
+#this is an example of range data type.
+x = range(6)
+
+#this is an example of dict data type.
+x = {key_name: key_value}
+x = {me:PEACE, number:0907}
+
+#this is an example of set data type.
+x = {"peace", "spread peace"}
+x = {1,2,3,4}
+x = {True, False}
+
+#this is an example of frozenset data type.
+x = frozenset(("apple", "banana", "cherry"))
+
+#this is an example of bool data type.
+x = True
+x = False
