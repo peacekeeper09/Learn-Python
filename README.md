@@ -40,3 +40,9 @@ Virtual Studio Code aka VSCode
 - [macOS](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
 - [Linux .deb](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
 - [Linux .rpm](https://code.visualstudio.com/sha/download?build=stable&os=linux-rpm-x64)
+
+PyCharm by JETBRAINS
+- [Windows](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
+- [macOS .dmg intel](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac)
+- [macOS .dmg silicon](https://download.jetbrains.com/python/pycharm-professional-2022.3.1-aarch64.dmg)
+- [Linux](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux)
