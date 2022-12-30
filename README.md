@@ -46,3 +46,6 @@ PyCharm by JETBRAINS
 - [macOS .dmg intel](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac)
 - [macOS .dmg silicon](https://download.jetbrains.com/python/pycharm-professional-2022.3.1-aarch64.dmg)
 - [Linux](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux)
+
+Above are some of good ide(s) in which you can code python on. I personally use PyCharm more because it's UI is so simple, I mean VSCode UI is good too but for some reason I prefer PyCharm.
+
