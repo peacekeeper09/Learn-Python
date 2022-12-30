@@ -30,7 +30,13 @@ In simplified language, there is ease of development in Python when compared wit
 
 
 # Installing Python
-- [Windows](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe) 
-⚠️Note that Python 3.9+ cannot be used on Windows 7 or earlier.
+- [Windows](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe) ⚠️Note that Python 3.9+ cannot be used on Windows 7 or earlier.
 - [macOS](https://www.python.org/ftp/python/3.11.1/python-3.11.1-macos11.pkg)
 - [Other OS](https://www.python.org/download/other/)
+
+# IDE(s) for Python
+Virtual Studio Code aka VSCode
+- [Windows](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) ⚠️ windows 8 and above only.
+- [macOS](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
+- [Linux .deb](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
+- [Linux .rpm](https://code.visualstudio.com/sha/download?build=stable&os=linux-rpm-x64)
