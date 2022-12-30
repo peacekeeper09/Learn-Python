@@ -3,12 +3,12 @@
 
 Hello folks, you can call me PEACE. As you can see the heading, this is an unofficial, simplified documentation for Python, for beginners. In this repository, I have tried to explain Python as simple as possible. So without wasting any more time, let's begin!
 
-## Python
+## **Python**
 **What is Python ?** 
 
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. In sort, it's an easy programming language that one can learn. It's readability is way better as compared to any other programming language out there. Also the Python community is so helpful, healthy and active.  I believe this is all you need to know about Python(summary ofcourse).
 
-## Python VS
+## **Python VS**
 **Now let's begin to compare python with other programming language(s).**\
 I will be comparing Python only with Java, Javascript, C++, C and Pearl here.
 
@@ -27,3 +27,5 @@ This comparision will be somewhat similar to Python VS Java. Almost everything d
 
 ****VS C****\
 In simplified language, there is ease of development in Python when compared with C. Also this comparsion is similar to Python VS Java and C++.
+
+
