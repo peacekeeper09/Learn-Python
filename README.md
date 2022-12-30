@@ -29,3 +29,8 @@ This comparision will be somewhat similar to Python VS Java. Almost everything d
 In simplified language, there is ease of development in Python when compared with C. Also this comparsion is similar to Python VS Java and C++.
 
 
+# Installing Python
+- [Windows](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe) 
+⚠️Note that Python 3.9+ cannot be used on Windows 7 or earlier.
+- [macOS](https://www.python.org/ftp/python/3.11.1/python-3.11.1-macos11.pkg)
+- [Other OS](https://www.python.org/download/other/)
