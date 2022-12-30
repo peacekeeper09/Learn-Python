@@ -36,3 +36,15 @@ x = frozenset(("apple", "banana", "cherry"))
 #this is an example of bool data type.
 x = True
 x = False
+
+#this is an example of byte data type.
+x = byte(7)
+
+#this is an example of bytearray data type.
+x = bytearray(7)
+
+#this is an example of memoryview data type.
+x = memoryview(bytes(7))
+
+#this is an example of non data type.
+x = none
