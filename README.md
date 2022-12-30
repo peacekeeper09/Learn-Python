@@ -67,3 +67,15 @@ You should keep a note that variable is case sensitive. Example [here](https://g
 
 You can simply add up a comment in Python by using #, example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/comment.py).\
 Adding up a comment in a program makes it user friendly and actually allows you or your fellow worker to understand the code easily when you are accessing it later for rewriting the code or updating some feature.
+
+# Data Type(s) in Python
+
+|Text Type| str     | 
+| :-------- | :------- |
+| Numeric Types     | 	int, float, complex|
+|Sequence Types|	list, tuple, range|
+|Mapping Type|	dict|
+|Set Types|	set, frozenset|
+|Boolean Type|	bool|
+|Binary Types|	bytes, bytearray, memoryview|
+|None Type|	NoneType|
