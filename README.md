@@ -61,7 +61,4 @@ Declaring variables in Python? It is easy. Python Variable does not needs to def
 We have to always keep the variable name in string, it should not be any special character or any integer.
 You can check how to use variables from [here](https://github.com/peacekeeper09/Learn-Python/blob/main/variables.py).
 
-You should keep a note that variable is case sensitive.
-![code](https://cdn.discordapp.com/attachments/912044729020084265/1058240361333542952/image.png)
-output
-![output](https://cdn.discordapp.com/attachments/912044729020084265/1058241017159098388/image.png)
+You should keep a note that variable is case sensitive. Example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/case%20sensitive-variable.py)
