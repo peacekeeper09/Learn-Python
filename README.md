@@ -66,3 +66,4 @@ You should keep a note that variable is case sensitive. Example [here](https://g
 # Comments in Python
 
 You can simply add up a comment in Python by using #, example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/comment.py).
+Adding up a comment in a program makes it user friendly and actually allows you or your fellow worker to understand the code easily when you are accessing it later for rewriting the code or updating some feature.
