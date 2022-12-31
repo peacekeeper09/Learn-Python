@@ -138,4 +138,5 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 |<<=|	[x<<=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x << 7|
 
 
-
+- ****Comparison Operators in Python****
+> Use to compare two values.
