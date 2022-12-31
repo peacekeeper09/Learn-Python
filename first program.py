@@ -1,3 +1,3 @@
 #This  is our first Python code.
 
-print("Not hello world!)
+print("Spread PEACE")
