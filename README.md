@@ -191,4 +191,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 That's it. We covered all the operators in Python! 🤗 
 
 # Python If Else
-Let's begin 
+Let's begin with understand `If` and `Else` in Python.
