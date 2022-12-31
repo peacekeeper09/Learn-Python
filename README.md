@@ -161,3 +161,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 | not|[not(x < 7 and x < 9)](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return False if the condition is true and True if the condition is false.|
 
 - **Identity Operators in Python**
+> Used to check if two element are equal or not.
