@@ -49,6 +49,12 @@ PyCharm by JETBRAINS
 
 Above are some of good ide(s) in which you can code python on. I personally use PyCharm more because it's UI is so simple, I mean VSCode UI is good too but for some reason I prefer PyCharm.
 
+# Writing first code in Python.
+
+Let's begin with Writing our first code in Python. Literally in every single documentation and books, first code I have ever seen is printing hello world. Have you ever wondered why? I got to know recently, it is because in a book named [The C Programming Language by Brian Kernighan and Dennis Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language) had first code as printing hello world, since then it is kind of made universal to have print hello world as a first code for any beginner in any programming language. Guess what? our first code won't be to print "Hello world".
+
+[First code](https://github.com/peacekeeper09/Learn-Python/blob/main/first%20program.py)\
+```print("Spread PEACE")```
 # Python Syntax
 **Python Indentation**\
 Indentation refers to the spaces at the beginning of a code line.\
