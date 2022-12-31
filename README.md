@@ -145,7 +145,7 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 |Comparison operators|  sign | usage|what does it do?
 | :---- | :----|:------- |:--|
 |  Equal   |==	| [x==y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| compares if the value of two given element is same or not.
-|Not equal|	-|[x-y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+|Not equal|!=|[x!=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|checks if the value of two given element is not equal or not.
 | Greater than|	*|[x*y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
 |Less than	|	/|[x/y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
 |Greater than or equal to	|	%|[x%y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
