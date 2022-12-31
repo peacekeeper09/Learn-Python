@@ -162,3 +162,8 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 
 - **Identity Operators in Python**
 > Used to check if two element are equal or not.
+|Identity Operators | usage| what does it do?|
+| :---- |:------- |:---|
+|  and | [x < 7 and  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if the given condition is true. |
+|or	| [x < 7 or  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if any of the given condition is true.|
+| not|[not(x < 7 and x < 9)](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return False if the condition is true and True if the condition is false.|
