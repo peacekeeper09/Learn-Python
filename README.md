@@ -87,3 +87,10 @@ Adding up a comment in a program makes it user friendly and actually allows you 
 |None Type|	NoneType|
 
 You can get to see the example/usage of each data types in [here](https://github.com/peacekeeper09/Learn-Python/blob/main/data%20type.py).
+
+# Types of operators in Python.
+
+Operators are used to perform operations in Python.\
+One of simplest example of operators is addition and substraction.\
+
+**Let's dive more deeper into "operators in Python."**
