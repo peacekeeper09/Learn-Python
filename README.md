@@ -165,8 +165,8 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 
 |Identity Operators | usage| what does it do?|
 | :---- |:------- |:---|
-|  is  | [x is y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are same |
-|is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are not same|
+|  is  | [x is y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are same. |
+|is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are not same.|
 
 - **Membership Operators in Python**
 > Membership operators are used to test if a sequence is presented in an element.
