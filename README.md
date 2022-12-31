@@ -152,3 +152,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 |Less than or equal to	|<=|[x<=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| checks if the value of a given element is smaller than or equal to the another element.
 
 - **Logical Operators in Python**
+> Basically used to combine up operators.
