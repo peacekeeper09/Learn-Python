@@ -103,8 +103,17 @@ Operators in Python can be divided into following major groups:-\
 - Identity operators
 - Membership operators
 - Bitwise operators
-
-Now let's see each operators closely.
+Now let's see each operators closely.\
 
 - ****Arithmetic operators in Python****
 Used only with numeric values to perform simple/complex mathematics opeartions/calculations.
+
+|Arithmetic operators|  sign | usage|
+| :---- | :----|:------- |
+|  Addition   | 	+| [x+y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+|substraction|	-|[x-y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+| Multiplication|	*|[x*y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+|Division|	/|[x/y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+|Modulus|	%|[x%y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+|Exponentation|**|[x**y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+|Floor Division|	//|[x//y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
