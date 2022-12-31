@@ -102,9 +102,9 @@ Operators in Python can be divided into following major groups:-\
 - Logical operators
 - Identity operators
 - Membership operators
-- Bitwise operators\
+- Bitwise operators
 
-Now let's see each operators closely.\
+Now let's see each operators closely.
 
 - ****Arithmetic operators in Python****
 Used only with numeric values to perform simple/complex mathematics opeartions/calculations.
