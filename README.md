@@ -182,4 +182,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 |Bitwise Operators|NAME| what does it do?|
 | :---- |:------- |:---|
 |  &    |AND| 	Sets each bit to 1 if both bits are 1|
-|	| |OR	Sets each bit to 1 if one of two bits is 1|
+|^|	XOR|	Sets each bit to 1 if only one of two bits is 1|
