@@ -190,3 +190,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 `|`	`OR` `Sets each bit to 1 if one of two bits is 1.`\
 That's it. We covered all the operators in Python! 🤗 
 
+# Python If Else
