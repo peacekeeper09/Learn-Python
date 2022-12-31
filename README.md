@@ -170,7 +170,7 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 
 - **Membership Operators in Python**
 > Membership operators are used to test if a sequence is presented in an element.
-> 
+
 |Membershit Operators | usage| what does it do?|
 | :---- |:------- |:---|
 |  in   | [x in  y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True sequence with the specified value is present in the element |
