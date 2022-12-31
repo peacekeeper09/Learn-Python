@@ -154,10 +154,10 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 - **Logical Operators in Python**
 > Basically used to combine up operators.
 
-|Assignment Operators | usage| same as|
+|Logical Operators | usage| what does it do?|
 | :---- |:------- |:---|
-|  =   | [x= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x= 7|
-|+=	| [x += 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x= x+7|
+|  and | [x < 7 and  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if the given condition is true. |
+|or	| [x < 7 or  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x= x+7| This will return True if any of the given condition is true.|
 | -=|[x-=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x-7|
 |*=|[x *= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|x = x*7|
 |/=|	[x/=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x/7|
