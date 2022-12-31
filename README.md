@@ -179,7 +179,7 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 - **Bitwise Operators**
 > Used to compare binary numbers.
 
-|Bitwise Operators | usage| what does it do?|
-| :---- |:------- |:---|
+|Bitwise Operators | sign| usage| what does it do?|
+| :---- |:------- |:---|:---|
 |  in   | [x in  y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True sequence with the specified value is present in the element |
 |is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if True if a sequence with the specified value is not present in the object|
