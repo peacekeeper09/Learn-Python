@@ -93,4 +93,14 @@ You can get to see the example/usage of each data types in [here](https://github
 Operators are used to perform operations in Python.\
 One of simplest example of operators is addition and substraction.\
 
-**Let's dive more deeper into "operators in Python."**
+**Let's dive more deeper into "operators in Python."**\
+Operators in Python can be divided into following major groups:-\
+
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Identity operators
+- Membership operators
+- Bitwise operators
+Now let's see each operators closely.\
