@@ -177,4 +177,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 |is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if True if a sequence with the specified value is not present in the object|
 
 - **Bitwise Operators**
-
+> Used to compare binary numbers.
