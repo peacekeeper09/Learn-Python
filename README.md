@@ -183,3 +183,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 | :---- |:------- |:---|
 |  &    |AND| 	Sets each bit to 1 if both bits are 1|
 |^|	XOR|	Sets each bit to 1 if only one of two bits is 1|
+|~|	NOT|	Inverts all the bits|
