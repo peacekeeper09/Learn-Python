@@ -167,3 +167,12 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 | :---- |:------- |:---|
 |  is  | [x is y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are same |
 |is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are not same|
+
+- **Membership Operators in Python**
+
+|Membershit Operators | usage| what does it do?|
+| :---- |:------- |:---|
+|  in   | [x in  y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are same |
+|is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are not same|
+
+
