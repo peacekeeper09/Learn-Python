@@ -104,3 +104,6 @@ Operators in Python can be divided into following major groups:-\
 - Membership operators
 - Bitwise operators
 Now let's see each operators closely.\
+
+- ****Arithmetic operators in Python****
+Used only with numeric values to perform simple/complex mathematics opeartions/calculations.
