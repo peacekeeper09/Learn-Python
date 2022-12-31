@@ -106,9 +106,8 @@ Operators in Python can be divided into following major groups:-
 
 Now let's see each operators closely.
 
-- ****Arithmetic operators in Python****
-
-> Used only with numeric values to perform simple/complex mathematics opeartions/calculations.
+- ****Arithmetic operators in Python****\
+Used only with numeric values to perform simple/complex mathematics opeartions/calculations.
 
 |Arithmetic operators|  sign | usage|
 | :---- | :----|:------- |
@@ -119,3 +118,24 @@ Now let's see each operators closely.
 |Modulus|	%|[x%y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
 |Exponentation|**|[x**y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
 |Floor Division|	//|[x//y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+
+- ****Assignment Operators in Python****
+> Used to assign values to a specified variable.
+
+|Assignment Operators | usage| same as|
+| :---- |:------- |:---|
+|  =   | [x= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x= 7|
+|+=	| [x += 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x= x+7|
+| -=|[x-=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x-7|
+|*=|[x *= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|x = x*7|
+|/=|	[x/=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x/7|
+|%=|[x%=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| 	x = x % 7|
+|//= |[x//=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|x = x // 7|
+|  **=  | [x**=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x ** 7|
+|&=	| [x &=	7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| 	x = x & 7|
+| ^= 	|[x ^= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x ^ 7|
+|>>=	|[x>>=	7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|	x = x >> 7|
+|<<=|	[x<<=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x << 7|
+
+
+
