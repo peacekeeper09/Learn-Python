@@ -79,3 +79,5 @@ Adding up a comment in a program makes it user friendly and actually allows you 
 |Boolean Type|	bool|
 |Binary Types|	bytes, bytearray, memoryview|
 |None Type|	NoneType|
+
+You can get to see the example/usage of each data types in [here](https://github.com/peacekeeper09/Learn-Python/blob/main/data%20type.py)
