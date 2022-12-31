@@ -182,4 +182,4 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 |Bitwise Operators|NAME| what does it do?|
 | :---- |:------- |:---|
 |  &    |AND| 	Sets each bit to 1 if both bits are 1|
-|is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if True if a sequence with the specified value is not present in the object|
+|	| |OR	Sets each bit to 1 if one of two bits is 1|
