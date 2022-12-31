@@ -154,7 +154,7 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 - **Logical Operators in Python**
 > Basically used to combine up operators.
 |Logical operators| usage|what does it do?|
-| :---- | :----|:------- 
+| :---- | :----|:------- |
 |  Equal   | [x==y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| compares if the value of two given element is same or not.|
 |Not equal|[x!=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|checks if the value of two given element is not equal or not.|
 | Greater than|[x>y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|checks if the value of a given element is greater than that of another element.|
