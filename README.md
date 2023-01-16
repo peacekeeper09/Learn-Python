@@ -192,7 +192,7 @@ That's it. We covered all the operators in Python! 🤗
 
 # Asking for an input from user in Python.
 
-Let's see how you can take an input from a user in Python, you need to learn this before proceeding any further.\
+Let's see how you can take an input from a user in Python, you need to learn this before proceeding any further.
 
 `a= int(input("Enter an input :-"))` :- this is how you can take an integer input in python.
 # Python If Else
