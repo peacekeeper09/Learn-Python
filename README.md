@@ -202,6 +202,6 @@ As you can guess from name, what if and else can be used for, you must be guessi
 
 - Example and working:- 
 Imagine if you want to want to check if a person is eligible for voting or not, how will you be checking that? By seeing that if the person is below or above [18 age](https://en.wikipedia.org/wiki/Voting_age). Right? 
-Now allow me to give you a rough sketch of how you will be implementing this in Python.\
+Now allow me to give you a rough sketch of how you will be implementing this in Python.
 
 Either you will be taking an input from the user.
