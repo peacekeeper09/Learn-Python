@@ -190,7 +190,18 @@ Used only with numeric values to perform simple/complex mathematics opeartions/c
 `|`	`OR` `Sets each bit to 1 if one of two bits is 1.`\
 That's it. We covered all the operators in Python! 🤗 
 
-# Python If Else
-Let's begin with understand `If` and `Else` in Python.
+# Asking for an input from user in Python.
 
-# WILL BE UPDATING SOON :))
+Let's see how you can take an input from a user in Python, you need to learn this before proceeding any further.\
+
+`a= int(input("Enter an input :-"))` :- this is how you can take an integer input in python.
+# Python If Else
+-Let's begin with understand `If` and `Else` in Python.
+
+As you can guess from name, what if and else can be used for, you must be guessing it pretty right (I hope). Let me give you a simple example to show how if and else works in here.
+
+- Example and working:- 
+Imagine if you want to want to check if a person is eligible for voting or not, how will you be checking that? By seeing that if the person is below or above [18 age](https://en.wikipedia.org/wiki/Voting_age). Right? 
+Now allow me to give you a rough sketch of how you will be implementing this in Python.\
+
+Either you will be taking an input from the user.\
