@@ -213,3 +213,5 @@ OR
 ![if-else code](https://media.discordapp.net/attachments/929653900812886076/1065514200635560006/image.png)
 
 # Python While Loops
+
+So we here comes another important thing in python, while loops. Using while loops we can execute some set of statement if the condition is true.
