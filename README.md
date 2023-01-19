@@ -214,4 +214,6 @@ OR
 
 # Python While Loops
 
-So we here comes another important thing in python, while loops. Using while loops we can execute some set of statement if the condition is true.
+So we here comes another important thing in python, while loops. Using while loops we can execute some set of statement if the condition is true.\
+
+Let us see how we can use while loops in Python.
