@@ -216,7 +216,10 @@ OR
 
 So we here comes another important thing in python, while loops. Using while loops we can execute some set of statement if the condition is true. Let us see how we can use while loops in Python.
 
-Let's take an example for demonstrating the usage of `while-loop` in Python. Imagine if you want to check if value of a variable is lesser than 4 and if it is true, you want to print those numbers.\
+Let's take an example for demonstrating the usage of `while-loop` in Python. Imagine if you want to check if value of a variable is lesser than 4 and if it is true, you want to print those numbers.
 
 [Here is the code for above example.](https://github.com/peacekeeper09/Learn-Python/blob/main/while-loop.py)
 
+OR
+
+![while-loop](https://media.discordapp.net/attachments/929653900812886076/1065519285847465984/image.png)
