@@ -215,6 +215,11 @@ you can just see the code here if you don't wanna jump to that link.
 ## Elif
 Let's imagine a case where do you want to check multiple cases for example here if you want to check if a person if above and equal to age 18, what will you do? use if twice? no, it will not look possible at all. In such case we use `Elif`. Now let us see the usage of elif with an example.
 
+OR\
+you can just see the code here if you don't wanna jump to that link.
+[Here is the code for above example](https://github.com/peacekeeper09/Learn-Python/blob/main/elif.py)
+![Elif](https://media.discordapp.net/attachments/929653900812886076/1065585832750231662/image.png)
+
 # Python While Loops
 
 So we here comes another important thing in python, while loops. Using while loops we can execute some set of statement if the condition is true. Let us see how we can use while loops in Python.
