@@ -209,19 +209,20 @@ Now allow me to give you a rough sketch of how you will be implementing this in 
 
 [Please click here to see how you can use if-else easily.](https://github.com/peacekeeper09/Learn-Python/blob/main/if-else.py)\
 
-For your ease, am dropping the code here too.\
+For your ease, am dropping the code here too.
+`
+#This is an example how you can use if-else in Python.
 
-#This is an example how you can use if-else in Python.\
-a = 17\
-if a > 18:\
-  print("You are eligible for voting.")\
-else:\
-  print("You are not eligible for voting.")\
+a = 17
+if a > 18:
+  print("You are eligible for voting.")
+else:
+  print("You are not eligible for voting.")
   
-#Another example\
+#Another example 
 
-a = int(input("Enter your age:- "))\
-if a > 18:\
-  print("You are eligible for voting.")\
-else:\
-  print("You are not eligible for voting.")\
+a = int(input("Enter your age:- "))
+if a > 18:
+  print("You are eligible for voting.")
+else:
+  print("You are not eligible for voting.")`
