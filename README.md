@@ -194,9 +194,9 @@ That's it. We covered all the operators in Python! 🤗
 
 Let's see how you can take an input from a user in Python, you need to learn this before proceeding any further.
 
-`a= int(input("Enter an integer input :-"))` :- this is how you can take an integer input in python.
-`a = str(input("Enter a string input :- "))` :- this is how you can take a string inpu)t in python.
-`a = input("Enter an input")` :- this is will accept any kind of input in python.
+`a= int(input("Enter an integer input :-"))` :- this is how you can take an integer input in python.\
+`a = str(input("Enter a string input :- "))` :- this is how you can take a string inpu)t in python.\
+`a = input("Enter an input")` :- this is will accept any kind of input in python.\
 [Code here](https://github.com/peacekeeper09/Learn-Python/blob/main/input.py)
 # Python If Else
 -Let's begin with understand `If` and `Else` in Python.
