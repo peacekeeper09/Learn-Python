@@ -206,7 +206,7 @@ As you can guess from name, what if and else can be used for, you must be guessi
 - Example and working:- 
 Imagine if you want to want to check if a person is eligible for voting or not, how will you be checking that? By seeing that if the person is below or above [18 age](https://en.wikipedia.org/wiki/Voting_age). Right? Now I will be explaining the usage of if-else in python with taking this voting as an idea.
 
-[Please click here to see how you can use if-else easily.](https://github.com/peacekeeper09/Learn-Python/blob/main/if-else.py)
+[Here is the code for above example!](https://github.com/peacekeeper09/Learn-Python/blob/main/if-else.py)
 
 OR
 
@@ -217,3 +217,4 @@ OR
 So we here comes another important thing in python, while loops. Using while loops we can execute some set of statement if the condition is true.
 
 Let us see how we can use while loops in Python.
+
