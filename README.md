@@ -208,8 +208,8 @@ Imagine if you want to want to check if a person is eligible for voting or not, 
 
 [Here is the code for above example!](https://github.com/peacekeeper09/Learn-Python/blob/main/if-else.py)
 
-OR
-
+OR\
+you can just see the code here if you don't wanna jump to that link.
 ![if-else code](https://media.discordapp.net/attachments/929653900812886076/1065514200635560006/image.png)
 
 # Python While Loops
@@ -220,6 +220,6 @@ Let's take an example for demonstrating the usage of `while-loop` in Python. Ima
 
 [Here is the code for above example.](https://github.com/peacekeeper09/Learn-Python/blob/main/while-loop.py)
 
-OR
-
+OR\
+you can just see the code here if you don't wanna jump to that link.
 ![while-loop](https://media.discordapp.net/attachments/929653900812886076/1065519285847465984/image.png)
