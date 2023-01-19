@@ -208,6 +208,9 @@ Imagine if you want to want to check if a person is eligible for voting or not, 
 Now allow me to give you a rough sketch of how you will be implementing this in Python.
 
 [Please click here to see how you can use if-else easily.](https://github.com/peacekeeper09/Learn-Python/blob/main/if-else.py)\
+
 OR\
+
 ![if-else code](https://media.discordapp.net/attachments/929653900812886076/1065514200635560006/image.png)
 
+# Python While Loops
