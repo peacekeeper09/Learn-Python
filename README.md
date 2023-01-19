@@ -207,9 +207,9 @@ As you can guess from name, what if and else can be used for, you must be guessi
 Imagine if you want to want to check if a person is eligible for voting or not, how will you be checking that? By seeing that if the person is below or above [18 age](https://en.wikipedia.org/wiki/Voting_age). Right? 
 Now allow me to give you a rough sketch of how you will be implementing this in Python.
 
-[Please click here to see how you can use if-else easily.](https://github.com/peacekeeper09/Learn-Python/blob/main/if-else.py)\
+[Please click here to see how you can use if-else easily.](https://github.com/peacekeeper09/Learn-Python/blob/main/if-else.py)
 
-OR\
+OR
 
 ![if-else code](https://media.discordapp.net/attachments/929653900812886076/1065514200635560006/image.png)
 
