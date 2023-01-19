@@ -208,5 +208,3 @@ Imagine if you want to want to check if a person is eligible for voting or not, 
 Now allow me to give you a rough sketch of how you will be implementing this in Python.
 
 Either you will be taking an input from the user or you will be directly checking by inserting the values.
-
-
