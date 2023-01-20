@@ -221,6 +221,9 @@ OR\
 you can just see the code here if you don't wanna jump to that link.\ 
 ![Elif](https://media.discordapp.net/attachments/929653900812886076/1065585832750231662/image.png)
 
+## Pass
+If statements can not be empty, sometimes there are cases when you want to keep the if statement to be empty. So to avoid any kind of errors, we simply use `pass`.
+[Here is the code for above example.](https://github.com/peacekeeper09/Learn-Python/blob/main/if_pass.py)
 # Python While Loops
 
 So we here comes another important thing in python, while loops. Using while loops we can execute some set of statement if the condition is true. Let us see how we can use while loops in Python.
