@@ -235,3 +235,5 @@ Let's take an example for demonstrating the usage of `while-loop` in Python. Ima
 OR\
 you can just see the code here if you don't wanna jump to that link.
 ![while-loop](https://media.discordapp.net/attachments/929653900812886076/1065519285847465984/image.png)
+
+#Updating soon!
