@@ -2,7 +2,7 @@
 # Learn Python - A simplified documentation on Python.
 
 Hello folks, you can call me PEACE. As you can see the heading, this is an unofficial, simplified documentation for Python, for beginners. In this repository, I have tried to explain Python as simple as possible. So without wasting any more time, let's begin!
-
+<img src="https://discordapp.com/api/guilds/777902739548012555/widget.png?style=banner3" alt="Discord Banner 3"/>
 ## **Python**
 **What is Python ?** 
 
