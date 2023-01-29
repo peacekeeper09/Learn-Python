@@ -246,7 +246,10 @@ you can just see the code here if you don't wanna jump to that link.
 For is used in python for iterating over a sequence that has to be either list, tuple, dictionary, set or string.
 [Here is an example of how for loops is used.](https://github.com/peacekeeper09/Learn-Python/blob/main/for%20loop.py)
 
-## The break statement
+## Break statement
 
 Break can be used to stop the loop before it looped through all the items.
 [Here is an example of how you can use break.](https://github.com/peacekeeper09/Learn-Python/blob/main/break%20statement.py)
+
+## Continue statement
+Continue can be used to stop the current iteration and skip to the next one.
