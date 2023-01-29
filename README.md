@@ -249,3 +249,4 @@ For is used in python for iterating over a sequence that has to be either list, 
 ## The break statement
 
 Break can be used to stop the loop before it looped through all the items.
+[Here is an example of how you can use break.](https://github.com/peacekeeper09/Learn-Python/blob/main/break%20statement.py)
