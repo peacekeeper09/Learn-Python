@@ -244,3 +244,4 @@ you can just see the code here if you don't wanna jump to that link.
 # Python For Loops
 
 For is used in python for iterating over a sequence that has to be either list, tuple, dictionary, set or string.
+[Here is an example of how for loops is used.](https://github.com/peacekeeper09/Learn-Python/blob/main/for%20loop.py)
