@@ -39,9 +39,10 @@ Let's begin with Writing our first code in Python. Literally in every single doc
 [First code](https://github.com/peacekeeper09/Learn-Python/blob/main/first%20program.py)\
 ```print("Spread PEACE")```
 # Python Syntax
-**Python Indentation**\
-- Indentation refers to the spaces at the beginning of a code line.\
-- Important in Python.\
+
+**Python Indentation**
+- Indentation refers to the spaces at the beginning of a code line.
+- Important in Python.
 - Python uses indentation to indicate a block of code.
 
 **Python Variables**\
