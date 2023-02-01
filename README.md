@@ -46,9 +46,9 @@ Let's begin with Writing our first code in Python. Literally in every single doc
 - Python uses indentation to indicate a block of code.
 
 **Python Variables**\
-Declaring variables in Python? It is easy. Python Variable does not needs to define the data type or such like in some programming language.
+- Declaring variables in Python? It is easy. Python Variable does not needs to define the data type or such like in some programming language.
 
-We have to always keep the variable name in string, it should not be any special character or any integer.
+- We have to always keep the variable name in string, it should not be any special character or any integer.
 You can check how to use variables from [here](https://github.com/peacekeeper09/Learn-Python/blob/main/variables.py).
 
 You should keep a note that variable is case sensitive. Example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/case%20sensitive-variable.py).
