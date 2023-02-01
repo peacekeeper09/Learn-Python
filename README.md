@@ -45,7 +45,7 @@ Let's begin with Writing our first code in Python. Literally in every single doc
 - Important in Python.
 - Python uses indentation to indicate a block of code.
 
-**Python Variables**\
+**Python Variables**
 - Declaring variables in Python? It is easy. Python Variable does not needs to define the data type or such like in some programming language.
 
 - We have to always keep the variable name in string, it should not be any special character or any integer.
