@@ -40,9 +40,9 @@ Let's begin with Writing our first code in Python. Literally in every single doc
 ```print("Spread PEACE")```
 # Python Syntax
 **Python Indentation**\
-Indentation refers to the spaces at the beginning of a code line.\
-Important in Python.\
-Python uses indentation to indicate a block of code.
+- Indentation refers to the spaces at the beginning of a code line.\
+- Important in Python.\
+- Python uses indentation to indicate a block of code.
 
 **Python Variables**\
 Declaring variables in Python? It is easy. Python Variable does not needs to define the data type or such like in some programming language.
