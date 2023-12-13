@@ -117,57 +117,57 @@ Arithmetic operators are fundamental for numeric calculations, and assignment op
 Stay tuned as we explore more Python operators! 🐍✨
 
 
-- ****Comparison Operators in Python****
-> Use to compare two values.
+- **Comparison Operators in Python**
+  > Used to compare two values.
 
-
-|Comparison operators|  sign | usage|what does it do?
-| :---- | :----|:------- |:--|
-|  Equal   |==	| [x==y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| compares if the value of two given element is same or not.|
-|Not equal|!=|[x!=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|checks if the value of two given element is not equal or not.|
-| Greater than|	>|[x>y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|checks if the value of a given element is greater than that of another element.|
-|Less than	|	<	|[x<y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| checks if the value of a given element is smaller than that of another element.|
-|Greater than or equal to	|	>=	|[x>=	y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| checks if the value of a given element is greater than or equal to the another element.
-|Less than or equal to	|<=|[x<=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| checks if the value of a given element is smaller than or equal to the another element.
+  | Comparison operators        | Sign | Usage                                     | What does it do?                                     |
+  | :-------------------------- | :--: | :---------------------------------------- | :--------------------------------------------------- |
+  | Equal                       | ==   | [x==y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | Compares if the value of two given elements is the same. |
+  | Not equal                   | !=   | [x!=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | Checks if the value of two given elements is not equal. |
+  | Greater than                | >    | [x>y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)  | Checks if the value of a given element is greater than another element. |
+  | Less than                   | <    | [x<y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)  | Checks if the value of a given element is smaller than another element. |
+  | Greater than or equal to    | >=   | [x>=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | Checks if the value of a given element is greater than or equal to another element. |
+  | Less than or equal to       | <=   | [x<=y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | Checks if the value of a given element is smaller than or equal to another element. |
 
 - **Logical Operators in Python**
-> Basically used to combine up operators.
+  > Basically used to combine operators.
 
-|Logical Operators | usage| what does it do?|
-| :---- |:------- |:---|
-|  and | [x < 7 and  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if the given condition is true. |
-|or	| [x < 7 or  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if any of the given condition is true.|
-| not|[not(x < 7 and x < 9)](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return False if the condition is true and True if the condition is false.|
+  | Logical Operators | Usage                                 | What does it do?                                        |
+  | :---------------- | :------------------------------------ | :------------------------------------------------------ |
+  | and               | [x < 7 and  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | Returns True if the given condition is true.             |
+  | or                | [x < 7 or  x < 9](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)  | Returns True if any of the given conditions is true.     |
+  | not               | [not(x < 7 and x < 9)](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | Returns False if the condition is true, and True if the condition is false. |
 
 - **Identity Operators in Python**
-> Used to check if two element are equal or not.
+  > Used to check if two elements are equal or not.
 
-|Identity Operators | usage| what does it do?|
-| :---- |:------- |:---|
-|  is  | [x is y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are same. |
-|is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if both the elements are not same.|
+  | Identity Operators | Usage                           | What does it do?                                  |
+  | :------------------ | :------------------------------ | :------------------------------------------------ |
+  | is                 | [x is y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)     | Returns True if both elements are the same.       |
+  | is not             | [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | Returns True if both elements are not the same.   |
 
 - **Membership Operators in Python**
-> Membership operators are used to test if a sequence is presented in an element.
+  > Membership operators are used to test if a sequence is presented in an element.
 
-|Membershit Operators | usage| what does it do?|
-| :---- |:------- |:---|
-|  in   | [x in  y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True sequence with the specified value is present in the element. |
-|is not| [x is not y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| This will return True if True if a sequence with the specified value is not present in the object.|
+  | Membership Operators | Usage                           | What does it do?                                  |
+  | :------------------- | :------------------------------ | :------------------------------------------------ |
+  | in                  | [x in y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)      | Returns True if a sequence with the specified value is present in the element. |
+  | not in              | [x not in y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)  | Returns True if a sequence with the specified value is not present in the object. |
 
 - **Bitwise Operators**
-> Used to compare binary numbers.
+  > Used to compare binary numbers.
 
-|Bitwise Operators|NAME| what does it do?|
-| :---- |:------- |:---|
-|  &    |AND| 	Sets each bit to 1 if both bits are 1.|
-|^|	XOR|	Sets each bit to 1 if only one of two bits is 1.|
-|~|	NOT|	Inverts all the bits.|
-|<<	|Zero| fill left shift	Shift left by pushing zeros in from the right and let the leftmost bits fall off.|
-|>>	|Signed right shift	|Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off.|
+  | Bitwise Operators | Name       | What does it do?                                         |
+  | :---------------  | :--------- | :------------------------------------------------------- |
+  | &                 | AND        | Sets each bit to 1 if both bits are 1.                   |
+  | ^                 | XOR        | Sets each bit to 1 if only one of two bits is 1.          |
+  | ~                 | NOT        | Inverts all the bits.                                    |
+  | <<                | Left Shift  | Shifts left by pushing zeros in from the right and letting the leftmost bits fall off. |
+  | >>                | Right Shift | Shifts right by pushing copies of the leftmost bit in from the left, and letting the rightmost bits fall off. |
 
-`|`	`OR` `Sets each bit to 1 if one of two bits is 1.`\
-That's it. We covered all the operators in Python! 🤗 
+`|` `OR` `Sets each bit to 1 if one of two bits is 1.`
+
+That's it. We covered all the operators in Python! 🤗
 
 # Asking for an input from user in Python.
 
