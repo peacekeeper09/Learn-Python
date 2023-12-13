@@ -3,10 +3,6 @@
 
 Hello folks, you can call me PEACE. As you can see the heading, this is an unofficial, simplified documentation for Python, for beginners. In this repository, I have tried to explain Python as simple as possible. So without wasting any more time, let's begin!
 
-## Dedicated discord server for this repository
-Let's make a good discord community and help each other out with it. You can also drop feedback and suggestions over there if you are not willing to do it here.\
-  [![](https://dcbadge.vercel.app/api/server/v9RsytwNFU)](https://discord.gg/v9RsytwNFU)
-
 ## **Python**
 **What is Python ?** 
 
