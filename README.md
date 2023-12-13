@@ -38,8 +38,6 @@ print("Spread PEACE")
 
 # Python Syntax
 
-# Python Syntax
-
 ### Python Indentation
 Indentation plays a crucial role in Python syntax. It refers to the spaces at the beginning of a code line and is essential for indicating code blocks.
 
