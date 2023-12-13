@@ -65,54 +65,56 @@ Python supports various data types, each serving specific purposes. Here's a qui
 
 Explore examples and usage of each data type [here](https://github.com/peacekeeper09/Learn-Python/blob/main/data%20type.py).
 
-# Types of operators in Python.
+# Types of Operators in Python
 
-Operators are used to perform operations in Python.\
-One of simplest example of operators is addition and substraction.
+Operators in Python are essential for performing various operations. Let's delve deeper into the different types of operators in Python, which can be categorized as follows:
 
-**Let's dive more deeper into "operators in Python."**\
-Operators in Python can be divided into following major groups:-
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Identity Operators
+- Membership Operators
+- Bitwise Operators
 
-- Arithmetic operators
-- Assignment operators
-- Comparison operators
-- Logical operators
-- Identity operators
-- Membership operators
-- Bitwise operators
+Now, let's examine each category closely.
 
-Now let's see each operators closely.
+## Arithmetic Operators in Python
 
-- ****Arithmetic operators in Python****\
-Used only with numeric values to perform simple/complex mathematics opeartions/calculations.
+Arithmetic operators are used exclusively with numeric values to perform simple or complex mathematical operations and calculations.
 
-|Arithmetic operators|  sign | usage|
-| :---- | :----|:------- |
-|  Addition   | 	+| [x+y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
-|substraction|	-|[x-y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
-| Multiplication|	*|[x*y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
-|Division|	/|[x/y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
-|Modulus|	%|[x%y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
-|Exponentation|**|[x**y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
-|Floor Division|	//|[x//y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|
+| Arithmetic Operators | Sign | Usage |
+| :------------------- | :--: | :---: |
+| Addition             |  +   | [x+y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) |
+| Subtraction          |  -   | [x-y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) |
+| Multiplication       |  *   | [x*y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) |
+| Division             |  /   | [x/y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) |
+| Modulus              |  %   | [x%y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) |
+| Exponentiation       |  **  | [x**y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) |
+| Floor Division       |  //  | [x//y](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) |
 
-- ****Assignment Operators in Python****
-> Used to assign values to a specified variable.
+## Assignment Operators in Python
 
-|Assignment Operators | usage| same as|
-| :---- |:------- |:---|
-|  =   | [x= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x= 7|
-|+=	| [x += 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x= x+7|
-| -=|[x-=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x-7|
-|*=|[x *= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|x = x*7|
-|/=|	[x/=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x/7|
-|%=|[x%=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| 	x = x % 7|
-|//= |[x//=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|x = x // 7|
-|  **=  | [x**=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x ** 7|
-|&=	| [x &=	7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| 	x = x & 7|
-| ^= 	|[x ^= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x ^ 7|
-|>>=	|[x>>=	7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)|	x = x >> 7|
-|<<=|	[x<<=7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py)| x = x << 7|
+Assignment operators are used to assign values to specified variables.
+
+| Assignment Operators | Usage                  | Equivalent |
+| :------------------- | :--------------------- | :--------- |
+| =                    | [x = 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = 7 |
+| +=                   | [x += 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x + 7 |
+| -=                   | [x -= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x - 7 |
+| *=                   | [x *= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x * 7 |
+| /=                   | [x /= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x / 7 |
+| %=                   | [x %= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x % 7 |
+| //=                  | [x //= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x // 7 |
+| **=                  | [x **= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x ** 7 |
+| &=                   | [x &= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x & 7 |
+| ^=                   | [x ^= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x ^ 7 |
+| >>=                  | [x >>= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x >> 7 |
+| <<=                  | [x <<= 7](https://github.com/peacekeeper09/Learn-Python/blob/main/operators.py) | x = x << 7 |
+
+Arithmetic operators are fundamental for numeric calculations, and assignment operators provide a concise way to assign values to variables.
+
+Stay tuned as we explore more Python operators! 🐍✨
 
 
 - ****Comparison Operators in Python****
