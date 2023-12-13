@@ -36,45 +36,36 @@ Let's start with a twist! Instead of the traditional "Hello, World!" let's print
 print("Spread PEACE")
 ```
 
-# Writing first code in Python.
-
-Let's begin with Writing our first code in Python. Literally in every single documentation and books, first code I have ever seen is printing hello world. Have you ever wondered why? I got to know recently, it is because in a book named [The C Programming Language by Brian Kernighan and Dennis Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language) had first code as printing hello world, since then it is kind of made universal to have print hello world as a first code for any beginner in any programming language. Guess what? our first code won't be to print "Hello world".
-
-[First code](https://github.com/peacekeeper09/Learn-Python/blob/main/first%20program.py)\
-```print("Spread PEACE")```
 # Python Syntax
 
-**Python Indentation**
-- Indentation refers to the spaces at the beginning of a code line.
-- Important in Python.
-- Python uses indentation to indicate a block of code.
+# Python Syntax
 
-**Python Variables**
-- Declaring variables in Python? It is easy. Python Variable does not needs to define the data type or such like in some programming language.
+### Python Indentation
+Indentation plays a crucial role in Python syntax. It refers to the spaces at the beginning of a code line and is essential for indicating code blocks.
 
-- We have to always keep the variable name in string, it should not be any special character or any integer.
-You can check how to use variables from [here](https://github.com/peacekeeper09/Learn-Python/blob/main/variables.py).
+### Python Variables
+Declaring variables in Python is straightforward. Unlike some programming languages, Python variables do not require a defined data type. Variable names should be in strings and avoid special characters or integers. Check examples [here](https://github.com/peacekeeper09/Learn-Python/blob/main/variables.py).
 
-You should keep a note that variable is case sensitive. Example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/case%20sensitive-variable.py).
+Remember, Python is case-sensitive. See an example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/case%20sensitive-variable.py).
 
-# Comments in Python
+### Comments in Python
+Comments in Python are denoted by the `#` symbol. Adding comments to your code enhances its readability and helps you and your collaborators understand it better. Example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/comment.py).
 
-You can simply add up a comment in Python by using #, example [here](https://github.com/peacekeeper09/Learn-Python/blob/main/comment.py).\
-Adding up a comment in a program makes it user friendly and actually allows you or your fellow contributer to understand the code easily when you are accessing it later for rewriting the code or updating some feature.
+## Data Types in Python
 
-# Data Type(s) in Python
+Python supports various data types, each serving specific purposes. Here's a quick overview:
 
-|Text Type| str     | 
+|Text Type| `str`     | 
 | :-------- | :------- |
-| Numeric Types     | 	int, float, complex|
-|Sequence Types|	list, tuple, range|
-|Mapping Type|	dict|
-|Set Types|	set, frozenset|
-|Boolean Type|	bool|
-|Binary Types|	bytes, bytearray, memoryview|
-|None Type|	NoneType|
+| Numeric Types     | 	`int`, `float`, `complex`|
+|Sequence Types|	`list`, `tuple`, `range`|
+|Mapping Type|	`dict`|
+|Set Types|	`set`, `frozenset`|
+|Boolean Type|	`bool`|
+|Binary Types|	`bytes`, `bytearray`, `memoryview`|
+|None Type|	`NoneType`|
 
-You can get to see the example/usage of each data types in [here](https://github.com/peacekeeper09/Learn-Python/blob/main/data%20type.py).
+Explore examples and usage of each data type [here](https://github.com/peacekeeper09/Learn-Python/blob/main/data%20type.py).
 
 # Types of operators in Python.
 
