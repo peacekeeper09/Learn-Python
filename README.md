@@ -1,32 +1,40 @@
+# Learn Python - A Simplified Documentation
 
-# Learn Python - A simplified documentation on Python.
-
-Hello folks, you can call me PEACE. As you can see the heading, this is an unofficial, simplified documentation for Python, for beginners. In this repository, I have tried to explain Python as simple as possible. So without wasting any more time, let's begin!
+Hello, fellow learners! I'm PEACE, and this is your unofficial, simplified documentation for Python. Let's dive in!
 
 ## **Python**
-**What is Python ?** 
+**What is Python?** 
 
-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. In sort, it's an easy programming language that one can learn. It's readability is way better as compared to any other programming language out there. Also the Python community is so helpful, healthy and active.  I believe this is all you need to know about Python(summary ofcourse).
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. It's known for its simplicity, readability, and vibrant community. Now, let's get started!
 
 # Installing Python
-- [Windows](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe) ⚠️Note that Python 3.9+ cannot be used on Windows 7 or earlier.
+- [Windows](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe) ⚠️ Note: Python 3.9+ is not compatible with Windows 7 or earlier.
 - [macOS](https://www.python.org/ftp/python/3.11.1/python-3.11.1-macos11.pkg)
 - [Other OS](https://www.python.org/download/other/)
 
 # IDE(s) for Python
-Visual Studio Code aka VSCode
-- [Windows](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) ⚠️ windows 8 and above only.
-- [macOS](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
-- [Debian/Ubuntu(.deb)](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
-- [Fedora/Opensuse](https://code.visualstudio.com/sha/download?build=stable&os=linux-rpm-x64)
 
-PyCharm by JETBRAINS
+## Visual Studio Code (VSCode)
+- [Windows](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) ⚠️ Windows 8 and above only.
+- [macOS](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
+- [Debian/Ubuntu (.deb)](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
+- [Fedora/OpenSUSE](https://code.visualstudio.com/sha/download?build=stable&os=linux-rpm-x64)
+
+## PyCharm by JetBrains
 - [Windows](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
 - [macOS .dmg Intel](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac)
 - [macOS .dmg Apple silicon](https://download.jetbrains.com/python/pycharm-professional-2022.3.1-aarch64.dmg)
 - [Linux](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux)
 
-Above are some of good ide(s) in which you can code python on. I personally use PyCharm more because its Simple by Default Powerful When Needed, I mean VSCode's UI is good too but for some reason I prefer PyCharm.
+I personally prefer PyCharm because it's Simple by Default, Powerful When Needed.
+
+# Writing Your First Python Code
+
+Let's start with a twist! Instead of the traditional "Hello, World!" let's print "Spread PEACE."
+
+```python
+print("Spread PEACE")
+```
 
 # Writing first code in Python.
 
